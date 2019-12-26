@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://tak2siva.github.io/",
   "dependencies": {
+    "geojson-polygon-center": "0.0.0",
+    "h3-js": "^3.6.3",
     "material-ui": "^0.20.2",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.4",
